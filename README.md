@@ -14,7 +14,7 @@
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.instagram.com/rickypaul___1/)  
+[![Instagram](https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rickypaul___1/)  
 
 ---
 
