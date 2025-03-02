@@ -1,48 +1,45 @@
-# 👋 Hi, I'm K. Vineeth Ricky Pal!
+<h1 align="center">Hi 👋, I'm K. Vineeth Ricky Pal</h1>
+<h3 align="center">A passionate Electronics and Communication Engineering student with a keen interest in programming and technology.</h3>
 
-🔹 **Pre-final year Electronics and Communication Engineering student at IIIT Manipur**  
-🔹 Passionate about **Electronics, Communication Systems, and Programming**  
-🔹 Internship Experience at **CDAC**  
-🔹 Certified by **Electronic Arts (EA)**  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvineeth2205&label=Profile%20views&color=0e75b6&style=flat" alt="kvineeth2205" /> </p>
 
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+- 🎓 **Pre-final year ECE Student** at **IIIT Manipur**  
+- 🛠 **Interned at CDAC**  
+- 🏆 **Certified by Electronic Arts (EA)**  
+- 💡 **Passionate about Embedded Systems, IoT, and Software Development**  
+- 📫 **Reach me at** [your.email@example.com]  
 
 ---
 
-## ⚡ Tech Stack:
-### **Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)  
 
-### **Embedded Systems & Electronics**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+---
 
-### **Web Development & Tools**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-FF6F00?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-32A852?style=for-the-badge&logo=internet-of-things&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
-![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KVineeth2205&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KVineeth2205&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KVineeth2205&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVineeth2205&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 Achievements:
-- 🎖 **Electronic Arts (EA) Certification**
-- 🏅 **Internship at CDAC**
-- 🔬 **Hands-on Project Experience in Electronics & Programming**
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KVineeth2205&theme=onedark)
 
 ---
 
@@ -51,6 +48,4 @@
 
 ---
 
-🚀 **Looking for exciting opportunities in Embedded Systems, IoT, and Software Development!**  
-📩 Feel free to reach out via **LinkedIn or Email**!
-
+⭐ **Feel free to connect with me and collaborate on exciting projects!** 😊🚀  
