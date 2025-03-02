@@ -7,13 +7,14 @@
 - 🛠 **Interned at CDAC**  
 - 🏆 **Certified by Electronic Arts (EA)**  
 - 💡 **Passionate about Embedded Systems, IoT, and Software Development**  
-- 📫 **Reach me at** [your.email@example.com]  
+- 📫 **Reach me at** vine220102029@iiitmanipur.ac.in  
 
 ---
 
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.instagram.com/rickypaul___1/)  
 
 ---
 
