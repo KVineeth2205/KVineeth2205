@@ -13,8 +13,7 @@
 
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-ricky-pal-kaki-7b6973257/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://kvineeth2205.github.io/VineethRickyPalPortfolio.io/)  
-[![Instagram](https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rickypaul___1/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://kvineeth2205.github.io/VineethRickyPalPortfolio.io/)   
 
 ---
 
