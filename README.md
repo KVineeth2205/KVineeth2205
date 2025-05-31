@@ -5,7 +5,7 @@
 
 - 🎓 **Pre-final year ECE Student** at **IIIT Manipur**  
 - 🛠 **Interned at CDAC**  
-- 🏆 **Certified by Electronic Arts (EA)**  
+- 🏆 **Certified by Electronic Arts (EA) & Oracle Cloud**  
 - 💡 **Passionate about Embedded Systems, IoT, and Software Development**  
 - 📫 **Reach me at** vine220102029@iiitmanipur.ac.in  
 
