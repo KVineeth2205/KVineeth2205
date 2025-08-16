@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvineeth2205&label=Profile%20views&color=0e75b6&style=flat" alt="kvineeth2205" /> </p>
 
-- 🎓 **Pre-final year ECE Student** at **IIIT Manipur**  
-- 🛠 **Interned at CDAC**  
-- 🏆 **Certified by Electronic Arts (EA) & Oracle Cloud**  
+- 🎓 **Final year ECE Student** at **IIIT Manipur**  
+- 🛠 **Interned at CDAC , BrainWave Matrix Solutions,Indian Space Lab**  
+- 🏆 **Certified by Electronic Arts (EA) & Oracle Cloud ,& TCS **  
 - 💡 **Passionate about Embedded Systems, IoT, and Software Development**  
 - 📫 **Reach me at** vine220102029@iiitmanipur.ac.in  
 
